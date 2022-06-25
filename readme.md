@@ -1,6 +1,6 @@
 # Kubernetes The Hard Way On Azure
 
-This is my personal repo for starting this project. I am seeking to learn about Kubernetes in general from the ground up, and am glad to have found this in the Azure envrionment instead of GCP.
+This is my personal repo for starting this project. I am seeking to learn about Kubernetes in general from the ground up, and am glad to have found this in the Azure envrionment instead of GCP. My goal is to obtain CKA.
 
 
 
