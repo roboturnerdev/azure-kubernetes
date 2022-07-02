@@ -1,11 +1,11 @@
-kind: EncryptionConfg
+kind: EncryptionConfig
 apiVersion: v1
 resources:
   - resources:
       - secrets
     providers:
       - aescbc:
-        keys:
-          -name : key1
-           secret: $encryption_key
+          keys:
+            - name: key1
+              secret: xagKOZigY1mgU/igauIpscOMQ9M02eACtJNSdEiFTJw=
       - identity: {}
