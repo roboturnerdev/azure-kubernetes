@@ -1,16 +1,16 @@
 {
-  "CN": "system:node:worker-1",
-  "key": {
-    "algo": "rsa",
-    "size": 2048
-  },
-  "names": [
-    {
-      "C": "IT",
-      "L": "Milan",
-      "O": "system:nodes",
-      "OU": "Kubernetes The Hard Way",
-      "ST": "Italy"
-    }
-  ]
-}
+    "CN": "system:node:worker-1",
+    "key": {
+      "algo": "rsa",
+      "size": 2048
+    },
+    "names": [
+      {
+        "C": "IT",
+        "L": "Milan",
+        "O": "system:nodes",
+        "OU": "Kubernetes The Hard Way",
+        "ST": "Italy"
+      }
+    ]
+  }

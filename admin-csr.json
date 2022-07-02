@@ -1,16 +1,16 @@
 {
-  "CN": "admin",
-  "key": {
-    "algo": "rsa",
-    "size": 2048
-  },
-  "names": [
-    {
-      "C": "IT",
-      "L": "Milan",
-      "O": "system:masters",
-      "OU": "Kubernetes The Hard Way",
-      "ST": "Italy"
-    }
-  ]
-}
+    "CN": "admin",
+    "key": {
+      "algo": "rsa",
+      "size": 2048
+    },
+    "names": [
+      {
+        "C": "US",
+        "L": "Lynchburg",
+        "O": "system:masters",
+        "OU": "KTHW",
+        "ST": "VA"
+      }
+    ]
+  }
