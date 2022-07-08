@@ -6,11 +6,11 @@
     },
     "names": [
       {
-        "C": "US",
-        "L": "Lynchburg",
+        "C": "IT",
+        "L": "Milan",
         "O": "Kubernetes",
-        "OU": "IT",
-        "ST": "VA"
+        "OU": "MI",
+        "ST": "Italy"
       }
     ]
   }
